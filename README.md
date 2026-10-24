@@ -1,2 +1,3 @@
 # Belajar-pertama
-Repo pertama saya belajar github 
+
+Repository pertama saya untuk belajar dan menyimpan project di GitHub.
